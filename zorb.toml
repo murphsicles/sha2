@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2026"
 description = "SHA-256 cryptographic hash, HMAC-SHA256, and HKDF key derivation for Zeta — pure Zeta, no intrinsics"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/murphsicles/zeta-sha2"
+repository = "https://github.com/murphsicles/sha2"
 keywords = ["sha2", "sha-256", "hash", "cryptography", "hmac", "hkdf"]
 categories = ["cryptography"]
